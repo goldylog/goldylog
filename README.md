@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 안녕하세요, 김다연입니다 👋
+
+🎓 동덕여대 정보통계학과  
+📊 데이터와 사용자 기반 서비스 기획에 관심  
+🌱 현재 Python과 백엔드 개발 학습 중  
+🛠️ 공부한 것들: R, Python, 통계분석, Flask 입문
+
+🔗 연결:  
+[이메일](20220820kt@gmail.com)
