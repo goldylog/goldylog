@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **goldylog/goldylog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 안녕하세요, 김다연입니다 👋
+## 안녕하세요 👋
 
 🎓 동덕여대 정보통계학과  
 📊 데이터와 사용자 기반 서비스 기획에 관심  
